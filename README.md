@@ -4,7 +4,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluştur
 
 ![](https://imgyukle.com/f/2022/08/26/n5yEMf.png)
 
-![](https://imgyukle.com/f/2022/08/11/nkFnQq.png)
 
 ## Installation
 
